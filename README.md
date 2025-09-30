@@ -1,5 +1,5 @@
 # IS117 - A02
-
+Part 1: 
 Step by step instructions on how to use and where to install Git, Github, and Jetbrains webstorm. 
 
 1. Install jetbrains Webstorm using this link:  https://www.jetbrains.com/student/, this link will give you the option of applying for free access to the IDE using your NJIT email and a picture of your NJIT ID.
@@ -10,3 +10,7 @@ Step by step instructions on how to use and where to install Git, Github, and Je
 6. You can select file and choose whichever you want to create, whether this be HTML file, or a stylesheet for CSS typing.
 7. Make sure to add Git in order to add, commit, and push your changes.
 8. In order to commit or push, select, Git at the top, select commit or push, or both to do it simultaneously. Make sure to add a description so the changes are described properly. 
+
+
+Part 2: 
+**Branch**
